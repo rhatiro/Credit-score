@@ -1,8 +1,19 @@
-# [Credit-score](https://github.com/rhatiro/Credit-score/blob/main/Projeto%2001%20-%20Classificacao%20de%20credito%20-%20Roberto%20Hatiro.ipynb)
+<img src="https://raw.githubusercontent.com/rhatiro/Credit-score/main/ebac-course-utils/media/logo/newebac_logo_black_half.png" alt="ebac-logo">
 
-Repositório referente ao **primeiro projeto** do curso [Profissão: Cientista de Dados](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados), realizado pela EBAC.
+---
 
-[Exercícios do Módulo 8](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2008%20-%20Git%20:%20GitHub%20-%20Controle%20de%20versionamento)
+# [**Profissão: Cientista de Dados**](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados)
+### [**Projeto #01** | Credit-score](https://github.com/rhatiro/Credit-score/blob/main/Projeto%2001%20-%20Classificacao%20de%20credito%20-%20Roberto%20Hatiro.ipynb)
+
+**Por:** [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/rhatiro/)<br>
+<!-- **Data:** 17 de abril de 2023.<br> -->
+<!-- **Última atualização:** 17 de abril de 2023. -->
+
+---
+
+
+Repositório referente ao **primeiro projeto** do curso [Profissão: Cientista de Dados](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2008%20-%20Git%20:%20GitHub%20-%20Controle%20de%20versionamento), realizado pela EBAC.
+
 
 ---
 
