@@ -39,3 +39,7 @@ Repositório referente ao **primeiro projeto** do curso [Profissão: Cientista d
 | possui_email | Indica se possui e-mail (1 = sim, 0 = não) |binária|
 | qt_pessoas_residencia | quantidade de pessoas na residência |inteiro|
 | **mau** | indicadora de mau pagador (True = mau, False = bom) |binária|
+
+---
+
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/rhatiro/Credit-score/blob/main/Projeto%2001%20-%20Classificacao%20de%20credito%20-%20Roberto%20Hatiro.ipynb)
